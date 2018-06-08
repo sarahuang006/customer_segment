@@ -1,4 +1,4 @@
-Use clustering techniques to group customers for targeted coupons distribution.
+Use k-means clustering to group customers for targeted coupons' distribution.
 ## Project: Creating Customer Segments
 
 ### Install
